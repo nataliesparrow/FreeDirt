@@ -1,0 +1,61 @@
+body {
+	background: lawngreen;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	font-family: "arial black";
+}
+
+a {
+	color: green;
+	font-family: "arial";
+}
+
+h1 {
+	fontsize: 50px;
+	font-weight: normal;
+	color:white;
+	background: saddlebrown;
+	height: 200px;
+	width: 800px;
+	padding-top: 40px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+h2 {
+	fontsize: 50px;
+	font-weight: normal;
+	color:white;
+
+}
+h3{
+	fontsize: 50px;
+	font-weight: normal;
+	color:white;
+	background: saddlebrown;
+	height: 150px;
+	width: 1000px;
+	padding-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+
+}
+
+.sub-headline {
+
+}
+img {
+	height: 300px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;	
+}
+div p {
+	font-family: Garamond
+	font-size: 20px;
+}
